@@ -1,2 +1,3 @@
 Version 1.0.0
 Versão Beta
+Linha Adicionada
